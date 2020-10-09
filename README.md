@@ -1,4 +1,10 @@
 ### Hi there 👋
+### I'm Nikhil Purswani, Welcome to my profile!
+##### About me :
+- Currently pursuing Btech Informmation Technology from Indian Institute Of Inforation Technology Vadodara(Batch of 2021)⚡
+- I’m currently learning React, ML/DL/AI and working on my Competitev programming🌱
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/nickpurswani/), [Contact](+91-8926666614)📫
+
 
 <!--
 **nickpurswani/nickpurswani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
